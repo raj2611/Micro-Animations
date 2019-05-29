@@ -2,5 +2,5 @@
 
 A new Flutter project.
 
-![demo](https://github.com/raj2611/Micro-Animations/blob/master/animation/microanimation.gif =400x850)
 
+<img src="https://github.com/raj2611/Micro-Animations/blob/master/animation/microanimation.gif" align="left" height="600" width="300" >
